@@ -1,0 +1,17 @@
+Project Datum
+Copyright (c) 2026 Chandler Camarena
+
+Licensed under the MIT License (LICENSE-MIT), except where a file's
+SPDX-License-Identifier header states otherwise:
+
+  capture/bpf/      GPL-2.0-only OR MIT
+  kernel-patches/   GPL-2.0-only
+
+The GPL-2.0 text is in LICENSES/GPL-2.0-only.txt.
+
+Datum uses the Perfetto SDK (Apache-2.0). Distributed binaries that include
+it must also include Perfetto's license and NOTICE file.
+
+Contributors retain copyright in their contributions and license them under
+the terms above, as certified by their Developer Certificate of Origin
+sign-off.

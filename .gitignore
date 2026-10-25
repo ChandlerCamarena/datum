@@ -1,0 +1,15 @@
+# Build output
+/build/
+/builddir/
+result
+result-*
+
+# Captured traces are data, not source
+*.perfetto-trace
+*.pftrace
+/traces/
+
+# Editors
+.vscode/
+.idea/
+*.swp
